@@ -1,0 +1,1 @@
+Its a beautiful Ecommerce Website to promote ecommerce marketplace and promote sustainable devlopment . It has all functionalities like add to cart,apply coupon etc. , however its limitataion is that it do not cointains database
